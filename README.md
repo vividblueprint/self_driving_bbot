@@ -1,3 +1,27 @@
+
+<p align="center">
+  <a href="https://github.com/vividblueprint/self_driving_bbot/actions">
+    <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg"/>
+  </a>
+  <a href="https://github.com/vividblueprint/self_driving_bbot/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/vividblueprint/self_driving_bbot"/>
+  </a>
+  <a href="https://github.com/vividblueprint/self_driving_bbot/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/vividblueprint/self_driving_bbot?color=0088ff"/>
+  </a>
+  <a href="https://github.com/vividblueprint/self_driving_bbot/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vividblueprint/self_driving_bbot?color=0088ff">
+  </a>
+  <br />
+<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/vividblueprint/self_driving_bbot?color=green">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vividblueprint/self_driving_bbot?color=302df0">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vividblueprint/self_driving_bbot">
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/vividblueprint/self_driving_bbot?color=0088ff">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vividblueprint/self_driving_bbot?color=00ff00f">
+<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/vividblueprint/self_driving_bbot">
+</p>
+
+
 # Clone the repo
 ```
 git clone https://github.com/vividblueprint/self_driving_bbot.git
