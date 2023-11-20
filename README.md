@@ -1,6 +1,6 @@
 # Clone the repo
 ```
-https://github.com/vividblueprint/self_driving_bbot.git
+git clone https://github.com/vividblueprint/self_driving_bbot.git
 ```
 
 # Launch the Gazebo simulation

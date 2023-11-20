@@ -1,6 +1,5 @@
 #include "bbot_example/turtlesim_kinematics.h"
 
-
 int main(int argc, char **argv)
 {
     ros::init(argc, argv, "turtlesim_kinematics_node");
