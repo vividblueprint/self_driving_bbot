@@ -25,7 +25,7 @@
                   respawn="false" output="screen"
                   args="joint_state_controller wheel_left_controller wheel_right_controller" />
 
-            <node name="bbot_controller_node" pkg="bbot_controller" type="bbot_controller_node.py" respawn="true" output="screen">
+            <node name="bbot_controller_node" pkg="bbot_controller" type="bbot_controller_node$(arg py_suffix)" respawn="true" output="screen">
                   <param name="wheel_radius" value="$(arg wheel_radius)" />
                   <param name="wheel_separation" value="$(arg wheel_separation)" />
             </node>
